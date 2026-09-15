@@ -1,8 +1,0 @@
-.env
-.venv
-.vscode
-__pycache__
-.env
-docs
-.ruff_cache
-data
